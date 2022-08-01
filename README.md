@@ -37,7 +37,6 @@
 
 <br />
 <br />
-<br />
 
 ### 📕 Published Articles
 - [Deep-Learning-Based Adaptive Advertising with Augmented Reality](https://www.mdpi.com/1424-8220/22/1/63)
